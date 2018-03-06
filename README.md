@@ -9,7 +9,7 @@
 - Each time you fight a monster your health will reset back to 100. 
 - If you reach zero health points you will achieve a game over and you will have an option to start over. 
 - The number you roll is implemented as the attack damage you deal(Example: If you roll a fourteen, you will deal fourteen damage to the monster.) and subtracting that number from twenty is how much damage the monster deals.(Example: If you roll a fourteen, the monster will deal six damage to you). 
-- The special case where you roll a twenty will result in you dealing a critical hit (twenty points of damage) to the monster and will be unable to attack you (zero points of damage). 
+- The special case where you roll a twenty will result in you dealing a critical hit (twenty points of damage) to the monster and it will be unable to attack you (zero points of damage). 
 - The other special case where you roll a zero will result in the monster dealing a critical hit to you (twenty points of damage) and you will be unable to attack (zero points of damage).
 - Another part of this game is experience. This feature does not affect gameplay at all, but it was implemented as practice.
 - You, the player, will start the game at level one and each time you successfully defeat a monster you will receive 10 experience points. 
