@@ -1,6 +1,6 @@
 # Dice-Roller-Game
 /Introduction/
-- This python program was created in the fall of 2015 during my sophomore semester in my CS 230 Fundamentals of Computing course. This was one of the first projects I had done in this course and it was during a time my programming knowledge was very little compared to now. While this program is not very impressive in terms of coding skills, but it is special to me for being one of my first successful python programs.
+- This python program was created in the fall of 2015 during my sophomore semester in my CS 230 Fundamentals of Computing course. This was one of the first projects I had done in this course and it was during a time my programming knowledge was very little compared to now. While this program is not very impressive in terms of coding skills, it is special to me for being one of my first successful python programs.
 
 /Description/ 
 - This program is a simple text adventure game that takes a random number between one and twenty and outputs that number into a fighting simulator. 
