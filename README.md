@@ -15,7 +15,7 @@
 - You, the player, will start the game at level one and each time you successfully defeat a monster you will receive 10 experience points. 
 - To gain a new level you have to achieve twenty experience points (defeating two monsters). There is no cap to the amount of levels you can achieve. 
 - The final important key feature is item drops.
-- Every time you defeat a monster, there is a slight chance that it will drop one of four items.
+- Every time you defeat a monster, there is a slight chance that it will drop one of three items.
 - There is a twenty percent chance that it will drop a shiny dagger. There is a twenty percent chance that it will drop a shield. There is a ten percent chance it will drop a sword. Finally, there is a fifty percent chance that it will drop absolutely nothing
 - The game is programmed to where if an item is dropped in that play through it cannot drop again. The items actually affect the gameplay. 
 - If you receive a shiny dagger, every hit you deal will add an additional one damage (example: If you roll a six you will deal seven damage.). 
